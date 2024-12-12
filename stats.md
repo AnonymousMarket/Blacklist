@@ -213,7 +213,7 @@ Total Phone Numbers: 2992
 
 **Total Members in gambling: 112856**
 
-## Folder: fruad
+## Folder: fraud
 
 | Chat            | Member Count | Phone Numbers |
 |-----------------|---------------|---------------|
@@ -244,7 +244,7 @@ Total Phone Numbers: 2992
 | thebigyap | 6 | 0 |
 | ukchopperss | 480 | 4 |
 
-**Total Members in fruad: 19841**
+**Total Members in fraud: 19841**
 
 ## Folder: com
 

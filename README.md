@@ -1,5 +1,8 @@
 # Chats Database
 
+[View Statistics](./stats.md)
+
+
 This repository contains a collection of **CSV files** that include data on known **threat actors**, **chats**, and **servers** from various platforms such as **Telegram**, **Discord**, and others. These files are sourced from multiple channels.
 
 ### Contents
